@@ -15,20 +15,20 @@ Lab 8 kế thừa cách tổ chức repo của Lab 6 socket starter, nhưng thay
 
 ## Team members
 
-- **Thành viên 1**: TODO_MEMBER_1 - MSSV: TODO_MEMBER_1_ID
-- **Thành viên 2**: TODO_MEMBER_2 - MSSV: TODO_MEMBER_2_ID
+- **Thành viên 1**: Nguyễn Hữu Mạnh - 1871020381
+- **Thành viên 2**: Đinh Dương Phong - 1871020451
 
 ## Task division
 
-- **Thành viên 1 phụ trách chính**: TODO_ROLE_MEMBER_1
-- **Thành viên 2 phụ trách chính**: TODO_ROLE_MEMBER_2
-- **Phần làm chung**: TODO_SHARED_WORK
+- **Thành viên 1 phụ trách chính**: Nghiên cứu cấu trúc mật mã lai, phát triển thư viện công cụ lõi, xử lý đệm PKCS#7 và đóng gói cấu trúc tiêu đề gói tin nhị phân mạng (`secure_transfer_utils.py`, `sender.py`).
+- **Thành viên 2 phụ trách chính**: Thiết lập kiến trúc Socket mạng TCP lắng nghe kết nối, xử lý bóc tách tiêu đề dòng dữ liệu byte nhận được và hoàn thiện kịch bản kiểm thử tự động (`receiver.py`, `tests/`).
+- **Phần làm chung**: Cả hai
 
 ## Demo roles
 
-- **Demo Sender / mã hóa / log gửi**: TODO_DEMO_ROLE_1
-- **Demo Receiver / giải mã / kiểm tra hash**: TODO_DEMO_ROLE_2
-- **Cả hai cùng trả lời câu hỏi mở rộng AES và chữ ký số**: TODO_DEMO_ROLE_SHARED
+- **Demo Sender / mã hóa / log gửi**: Nguyễn Hữu Mạnh 
+- **Demo Receiver / giải mã / kiểm tra hash**: Đinh Dương Phong
+- **Cả hai cùng trả lời câu hỏi mở rộng AES và chữ ký số**: Cả hai thành phiên cùng phối hợp thực hiện
 
 ---
 
